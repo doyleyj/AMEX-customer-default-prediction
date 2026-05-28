@@ -1,4 +1,4 @@
-# COMP9417
+
 ## Kaggle - American Express Default Prediction
 The kaggle competition: https://www.kaggle.com/competitions/amex-default-prediction
 
